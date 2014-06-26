@@ -1,0 +1,11 @@
+name: ${project.name}
+version: ${project.version}
+description: 'Toggle natural player regeneration'
+depend: []
+softdepend: []
+authors: [Stealth2800]
+website: http://stealthyone.com/
+main: com.stealthyone.mcbc.toggleregen.ToggleRegen
+commands:
+  toggleregen:
+    aliases: [tregen, tgregen]
